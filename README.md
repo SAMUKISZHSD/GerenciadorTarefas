@@ -4,7 +4,8 @@ Este é um projeto de um gerenciador de tarefas desenvolvido em React, uma bibli
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+<img align="center"   src="https://github.com/SAMUKISZHSD/Gerenciador-de-tarefas/blob/main/Captura%20da%20Web_18-7-2023_192220_localhost.jpeg">
+
 
 
 ## Funcionalidades
